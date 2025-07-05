@@ -1,14 +1,16 @@
 # A forked version of the ESP32-BLE-Keyboard repository
 Changes: Replaced std:string with String in all library files for better compatibility with Arduino IDE compilation.
 
-## How to install library
+Original library can be found at: https://github.com/T-vK/ESP32-BLE-Keyboard 
+
+# How to add library to Arduino IDE
 - (Make sure you can use the ESP32 with the Arduino IDE. [Instructions can be found here.](https://github.com/espressif/arduino-esp32#installation-instructions))
 - [Download the latest release of this library from the release page.](https://github.com/T-vK/ESP32-BLE-Keyboard/releases)
 - In the Arduino IDE go to "Sketch" -> "Include Library" -> "Add .ZIP Library..." and select the file you just downloaded.
 - You can now go to "File" -> "Examples" -> "ESP32 BLE Keyboard" and select any of the examples to get started.
 
 
-Original library can be found at: https://github.com/T-vK/ESP32-BLE-Keyboard 
+
 
 # ESP32 BLE Keyboard library
 
