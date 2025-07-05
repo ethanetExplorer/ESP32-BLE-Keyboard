@@ -1,3 +1,7 @@
+# A forked version of the ESP32-BLE-Keyboard repository
+Changes: Replaced std:string with String in all library files for better compatibility with Arduino IDE compilation.
+Original library can be found at: https://github.com/T-vK/ESP32-BLE-Keyboard 
+
 # ESP32 BLE Keyboard library
 
 This library allows you to make the ESP32 act as a Bluetooth Keyboard and control what it does.  
